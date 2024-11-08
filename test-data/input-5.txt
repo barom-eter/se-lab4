@@ -1,0 +1,4 @@
+# Create a ship with no torpedos
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
